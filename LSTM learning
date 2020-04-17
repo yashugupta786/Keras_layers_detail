@@ -1,6 +1,7 @@
 Keras python LSTM (sequential modeling)
 https://www.liip.ch/en/blog/sentiment-detection-with-keras-word-embeddings-and-lstm-deep-learning-networks
 https://www.youtube.com/watch?v=8h8Z_pKyifM&list=PL1w8k37X_6L9s6pcqz4rAIEYZtF6zKjUE&index=5
+https://towardsdatascience.com/illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9
 keras embbeding layer-vector represatation of words
 create embedings on the fly- it take 3 arguments vocab size,embeding dimension, max len
 
