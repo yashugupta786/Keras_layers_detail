@@ -3,6 +3,7 @@ https://www.liip.ch/en/blog/sentiment-detection-with-keras-word-embeddings-and-l
 https://www.youtube.com/watch?v=8h8Z_pKyifM&list=PL1w8k37X_6L9s6pcqz4rAIEYZtF6zKjUE&index=5
 https://towardsdatascience.com/illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9
 keras embbeding layer-vector represatation of words
+https://hackernoon.com/rnn-or-recurrent-neural-network-for-noobs-a9afbb00e860
 create embedings on the fly- it take 3 arguments vocab size,embeding dimension, max len
 
 https://github.com/yashugupta786/Keras_layers_detail/blob/master/keras_embeddings_layer.ipynb
